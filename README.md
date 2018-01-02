@@ -55,7 +55,7 @@ ___
 #
 <ins>&sect; &Lfr;inks:</ins>
 
-&#8620;  _Archives Jean-Pierre Serre_. Chaire d'Algèbre et Géométrie (1956-1994) Collège de France. [[link]](https://www.college-de-france.fr/site/jean-pierre-serre/)
+&#8620;  _Archives Jean-Pierre Serre_. [[link]](https://www.college-de-france.fr/site/jean-pierre-serre/)
 
 &#8620; _Archives Alexandre Grothendieck_. [[link]](https://grothendieck.umontpellier.fr/)
 
@@ -64,6 +64,11 @@ ___
 &#8620; _En Guise de Programme_, A. Grothendieck. Pour le cours _"Introduction à la Recherche"_ (1978/79). [[link]](https://github.com/carmonagmateo/Overview/blob/master/enguisedeprogramme.pdf)
 
 &#8620; _Théorie des topos et cohomologie étale des schémas_. M. Artin, A. Grothendieck, J.-L. Verdier, Avec la participation de N. Bourbaki, P. Deligne, B. Saint-Donat. [SGA 4](http://fabrice.orgogozo.perso.math.cnrs.fr/SGA4/details/index.html).
+
+&#8620; _Emmy Noether: Die Gutachten_. [[link]](https://www.mathi.uni-heidelberg.de/~roquette/gutachten/noether-gutachten.htm)
+
+&#8620; _Transkriptionen aus Nachlässen und Archiven_, Peter Roquette. Handschriftenabteilung of the University Library at Göttingen [[link]](https://www.mathi.uni-heidelberg.de/~roquette/Transkriptionen/manutrans.html)
+
 
 
 
